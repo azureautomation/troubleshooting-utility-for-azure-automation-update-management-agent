@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 29076,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/troubleshooting-utility-for-azure-automation-update-management-agent/master/UM_Linux_Troubleshooter_AUM.py",
+    "DownloadCount": 3423,
+    "Id": "Troubleshooting-utility-3bcbefe6",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 15,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2018-11-7T00:00:00",
+    "RunbookKind": 9,
+    "RunbookKindString": "Python",
+    "Summary": "This python script is a troubleshooting tool for assessing the health of the Azure Automation Update Management agent on Linux machines.\u00a0 It checks several aspects that affect the health of the agent. You can read more details in this document: https://docs.microsoft.com/azure/au",
+    "Title": "Troubleshooting utility for Azure Automation Update Management Agent",
+    "UpdatedDate": "2020-9-2T00:00:00",
+    "Url": "https://github.com/azureautomation/troubleshooting-utility-for-azure-automation-update-management-agent",
+    "UserTags": "Microsoft Azure, linux, Updates"
+}
